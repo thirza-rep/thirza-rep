@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @thirza-rep
+- 👋 Hi, I’m @thirza
+- ![image2](https://github.com/user-attachments/assets/8bf39add-646a-41d8-bcd2-a7e67cc734fa)
+- Apinext&Co
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +9,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-thirza-rep/thirza-rep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+thirza-rep/thirza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
