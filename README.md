@@ -56,7 +56,7 @@ Saya berkontribusi dalam proyek jasa, pengembangan, dan pembuatan web di **Apine
 ## 📫 How to reach me  
 
 📧 **Email**: [irzalendra140@gmail.com](mailto:irzalendra140@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/thirza](https://linkedin.com/in/thirza)  
+🔗 **LinkedIn**: [linkedin.com/in/m-thirza-salendra](https://www.linkedin.com/in/m-thirza-salendra)
 💻 **GitHub**: [github.com/thirza-rep](https://github.com/thirza-rep)  
 
 ---
