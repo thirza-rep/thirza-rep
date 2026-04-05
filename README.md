@@ -35,13 +35,6 @@ Saya adalah seorang Web Developer yang berfokus pada pengembangan aplikasi web m
 
 ---
 
-### Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thirza-rep&show_icons=true&theme=flat&count_private=true" alt="Thirza's GitHub Stats" />
-</div>
-
----
-
 ### Contact & Collaboration
 Saya terbuka untuk diskusi teknis maupun peluang kolaborasi profesional.
 
