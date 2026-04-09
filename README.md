@@ -10,7 +10,6 @@
 ### Professional Profile
 Saya adalah seorang Web Developer yang berfokus pada pengembangan aplikasi web menggunakan framework Laravel. Saya memiliki minat besar dalam membangun sistem informasi yang terintegrasi, manajemen database, dan pengembangan API. Saat ini saya aktif berkontribusi dalam proyek-proyek digital melalui Apinext&Co.
 
-- **Current Projects**: Pengembangan SIPAKTA (Sistem Pengarsipan Akta) dan layanan web di Apinext&Co.
 - **Focus**: Laravel Ecosystem, RESTful API, dan Frontend Modern (React/Tailwind).
 - **Goal**: Membangun solusi teknologi yang efisien dan memberikan dampak positif bagi pengguna.
 
