@@ -109,8 +109,8 @@ I design and ship production-ready software end-to-end — from **ACID-compliant
 </div>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thirza-rep&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" height="165" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirza-rep&layout=compact&langs_count=8&hide=html,css,purebasic&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8" height="165" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=thirza-rep&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=E2E8F0&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&stroke=1E293B" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirza-rep&layout=compact&langs_count=8&hide=html,css,purebasic&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1" height="165" alt="Top Languages" />
 </p>
 
 ---
