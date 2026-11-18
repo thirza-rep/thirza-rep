@@ -76,7 +76,7 @@ I design and ship production-ready software end-to-end — from **ACID-compliant
   <tr>
     <td><strong>Frontend &amp; Apps</strong></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vue,pinia,react,tailwind,vite,flutter,electron&theme=dark" alt="Vue, Pinia, React, Tailwind CSS, Vite, Flutter, Electron" height="36" />
+      <img src="https://skillicons.dev/icons?i=vue,react,tailwind,bootstrap,vite,flutter,electron&theme=dark" alt="Vue, React, Tailwind CSS, Bootstrap, Vite, Flutter, Electron" height="36" />
     </td>
   </tr>
   <tr>
